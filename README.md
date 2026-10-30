@@ -1,6 +1,8 @@
 # Nova IPTV Player
 
 Um player IPTV simples, em português, que roda diretamente no navegador. Importe uma playlist M3U/M3U8 local para organizar canais ao vivo, filmes e séries, pesquisar itens e tentar reproduzir streams compatíveis.
+<img width="1852" height="892" alt="image" src="https://github.com/user-attachments/assets/7f75dec7-b534-4853-baa0-64ddb61dcd9a" />
+
 
 ## Como usar
 
